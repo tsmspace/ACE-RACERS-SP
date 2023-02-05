@@ -5,3 +5,5 @@ story development
 The goal of this project is to create an open-source story platform for the purpose of developing some "plot options" and character options for the enrichment of a game universe or multiple game universes. Of course normal story formats are also welcome. 
 
 check out tsmspace.com
+
+discord for ACE RACERS SP https://discord.gg/wWaqkjTx
