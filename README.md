@@ -7,4 +7,6 @@ The goal of this project is to create an open-source story platform for the purp
 
 check out tsmspace.com
 
+to read the "initial notes" with all of the text visible, just use the "raw" button.
+
 discord for ACE RACERS SP https://discord.gg/wWaqkjTx
