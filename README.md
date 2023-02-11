@@ -9,4 +9,4 @@ check out tsmspace.com
 
 to read the "initial notes" with all of the text visible, just use the "raw" button.
 
-discord for ACE RACERS SP [https://discord.gg/wWaqkjTx](https://discord.gg/YQnCpxyB)
+discord for ACE RACERS SP https://discord.gg/YQnCpxyB
