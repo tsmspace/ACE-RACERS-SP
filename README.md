@@ -9,6 +9,6 @@ check out tsmspace.com
 
 to read the "initial notes" (or any file) with all of the text visible, just use the "raw" button. The "initial notes" are a set of setting concepts that I consider essential elements to the story, as these setting elements are what the story project was created/intended to convey. 
 
-discord for ACE RACERS SP https://discord.gg/9tqRdwUT
+discord for ACE RACERS SP https://discord.gg/QTDQCJBF
 
 game: https://tsmspace.itch.io/ace-racers-sp
